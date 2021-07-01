@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(0, 0, 0);
+    font-family: 'Barlow', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    margin-left: 12%;
+    margin-right: 12%;
+    color: white;
+    background-image: url(../CSS/people.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-header{
+    color: white;
+    width: 98%;
+    padding: 1%;
+    text-indent: 20%;
+    text-transform: uppercase;
+    
+}
+
+.main-section{
+    margin-top: 1%;
+    margin-left: 75%;
+    width: 20%;
+    background-color: white;
+    color: black;
+    opacity: 0.9;
+    padding: 2%;
+    border-radius: 8px;
+    font-size: 1.2rem;
+}
+
+.main-form{
+    padding: 4%;
+}
+.main-footer{
+    font-size: 1.3rem;
+    margin-left: 8%;
+    margin-bottom: 5%;
+}
+
+
